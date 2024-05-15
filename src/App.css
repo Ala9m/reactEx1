@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.blank{
+  color: rgb(196, 238, 142);
+}
+
+i{
+  background: transparent;
+}
